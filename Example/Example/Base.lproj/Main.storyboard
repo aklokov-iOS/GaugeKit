@@ -158,7 +158,7 @@
                                             </userDefinedRuntimeAttribute>
                                             <userDefinedRuntimeAttribute type="boolean" keyPath="customColors" value="NO"/>
                                             <userDefinedRuntimeAttribute type="number" keyPath="shadowRadius">
-                                                <real key="value" value="5"/>
+                                                <real key="value" value="0.0"/>
                                             </userDefinedRuntimeAttribute>
                                             <userDefinedRuntimeAttribute type="number" keyPath="ringShadowRadius">
                                                 <real key="value" value="5"/>
